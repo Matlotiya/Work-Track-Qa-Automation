@@ -1,0 +1,3 @@
+playwright>=1.40      # browser automation framework
+flask>=3.0            # only for the bundled mock app (TARGET=mock)
+requests>=2.31        # mock hook client
